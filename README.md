@@ -21,9 +21,10 @@
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /></div>
+<!--<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /></div>-->
 
 <!-- Self introduction 自我介绍 -->
+
 #  🙋 Hello
 
 <p>✍️&nbsp;&nbsp;大家好，我是小孙同学! 目前就读于天津理工大学工业设计专业，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
@@ -32,6 +33,7 @@
 <p>&emsp;&emsp;或许我不是最优秀的，但任再坚持。春华秋实，努力一定会有收获，我正在悄悄蜕变。。。</p>
 
 <!-- just img 图片 -->
+
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
@@ -129,7 +131,11 @@
 <!--<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coffee.gif" alt="coffee" /></div><br>-->
 
 <!-- Joke 笑话 -->
-<div align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
+
+<div align="center">
+    <h1>Joke笑话</h1>
+    <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
+
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
