@@ -133,13 +133,6 @@
 
 <!-- Joke 笑话 -->
 
-<div align="center">
-    <h1>Joke笑话</h1>
-     <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
-    <img height="180"         src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/450px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg" alt="Jokes Card" />
- &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
-</div>
-
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 
 <!--<div align="center">
