@@ -1,4 +1,5 @@
 <!-- dynamic typing effect 动态打字效果 -->
+
 <h1 align="center">
   <a href="https://github.com/BoldGoingape/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;小wang同学祝您生活愉快!&center=true&size=27" />
@@ -108,8 +109,6 @@
 
 </div>
 
-<!-- just img 图片-->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 <!-- profile-3d-contrib 3D贡献图-->
 
 <!--<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" /></div>-->
@@ -182,11 +181,8 @@
 </div> -->
 
 <!-- wakatime 统计 -->
-<table align="center">
-<tr>
-<td valign="top">  
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+
+
 
 ```text
 🌞 Morning    50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.05% 
@@ -298,4 +294,11 @@ Linux                    2 hrs 55 mins       ██░░░░░░░░░�
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
+
+<!-- just img 图片-->
+
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
+
+
+
 </div>
