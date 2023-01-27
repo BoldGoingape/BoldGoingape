@@ -10,6 +10,8 @@
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /></div><br>
 <!-- profile logo 个人资料徽标 -->
 <div align="center">
+    <!-- visitor statistics logo 访客数统计徽标 -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=BoldGoingape" alt="访客统计" />
   <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/website-博客-blue" /></a>&emsp;
   <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/twitter-推特-blue" /></a>&emsp;
   <a href="https://www.facebook.com/profile.php?id=100070064104265/"><img src="https://img.shields.io/badge/facebook-脸书-003472" /></a>&emsp;
@@ -17,8 +19,7 @@
   <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
   <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/bilibili-B站-ff69b4" /></a>&emsp;
   <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/zhihu-知乎-blue" /></a>&emsp;
-<!-- visitor statistics logo 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=BoldGoingape" alt="访客统计" /></div>
+</div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 
@@ -28,7 +29,7 @@
 
 #  🙋 Hello
 
-<p>✍️&nbsp;&nbsp;大家好，我是小孙同学! 目前就读于天津理工大学工业设计专业，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
+<p>✍️&nbsp;&nbsp;大家好，我是小wang同学! 目前就读于天津理工大学工业设计专业，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 <p>&emsp;&emsp;代码让这个世界变得更加美好。</p>
 <p>&emsp;&emsp;或许我不是最优秀的，但任再坚持。春华秋实，努力一定会有收获，我正在悄悄蜕变。。。</p>
