@@ -216,11 +216,11 @@
 </h4>  
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
-<table align="center">
+<!--<table align="center">
   <tr>
     <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Bold Goingape&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
   </tr>
-</table>
+</table>-->
 
 <!-- Wakatime Graph-->
 
