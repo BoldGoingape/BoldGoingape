@@ -29,7 +29,7 @@
 
 #  🙋 Hello
 
-<p>✍️&nbsp;&nbsp;大家好，我是小wang同学! 目前就读于天津理工大学工业设计专业，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
+<p>✍️&nbsp;&nbsp;大家好，我是小wang同学! 目前在读于天津理工大学工业设计专业，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 <p>&emsp;&emsp;代码让这个世界变得更加美好。</p>
 <p>&emsp;&emsp;或许我不是最优秀的，但任再坚持。春华秋实，努力一定会有收获，我正在悄悄蜕变。。。</p>
